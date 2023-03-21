@@ -18,22 +18,22 @@
 
 * As, in the picture shown below, make sure you have the chapter list of the chapters you wish to download.
 
-    ![chapter-list]([assets/chp-list.jpg](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/chp-list.jpg))
+    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/chp-list.jpg" alt="chapter-list"></img>
 
 * If the chapter list given includes the chapters you wish to scrape, then instpect the page using the shortcut `Ctrl + Shift + i`
 * In the inspect panel, right-click on the body element and select 'copy-element' as shown.
  
-    ![inspect-panel](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/inspect-panel.jpg)
+    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/inspect-panel.jpg" alt="inspect-panel"></img>
 * Save the copied text as 'body.html' in the folder containing the python script.
     > Note : It is very important that the file be called body.html, else the program will not work
 
 * The folder contaning the python script should somewhat look like this 
 
-    ![folder](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/folder.jpg)
+    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/folder.jpg" alt="folder"></img>
 
 * Run the python script using the correct python interpreter and enter the chapters as shown below, and it will download the chapters for you.
 
-    ![command-promt](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/cmd.jpg)
+    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/cmd.jpg" alt="cmd"></img>
 
 + <span style="font-size: 24px">Features to be incorporated</span> <br />
 
