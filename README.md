@@ -13,26 +13,27 @@
 
 + <span style="font-size: 24px">Usage</span> <br />
 <br>
+
 * To use this tool you first need to head over to the [readlightnovels.net](https://readlightnovels.net) webpage of the lightnovel you wish to scrape.
 
 * As, in the picture shown below, make sure you have the chapter list of the chapters you wish to download.
 
-    ![chapter-list](assets/chp-list.jpg)
+    ![chapter-list]([assets/chp-list.jpg](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/chp-list.jpg))
 
 * If the chapter list given includes the chapters you wish to scrape, then instpect the page using the shortcut `Ctrl + Shift + i`
 * In the inspect panel, right-click on the body element and select 'copy-element' as shown.
  
-    ![inspect-panel](assets/inspect-panel.jpg)
+    ![inspect-panel](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/inspect-panel.jpg)
 * Save the copied text as 'body.html' in the folder containing the python script.
     > Note : It is very important that the file be called body.html, else the program will not work
 
 * The folder contaning the python script should somewhat look like this 
 
-    ![folder](assets/folder.jpg)
+    ![folder](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/folder.jpg)
 
 * Run the python script using the correct python interpreter and enter the chapters as shown below, and it will download the chapters for you.
 
-    ![command-promt](assets/cmd.jpg)
+    ![command-promt](https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/cmd.jpg)
 
 + <span style="font-size: 24px">Features to be incorporated</span> <br />
 
