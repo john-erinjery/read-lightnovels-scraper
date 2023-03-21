@@ -1,4 +1,3 @@
-#!C:\Programing\python-web\env\Scripts\python.exe
 import bs4
 from pickle import dump
 from fpdf import FPDF

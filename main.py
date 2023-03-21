@@ -1,4 +1,3 @@
-#!C:\Programing\python-web\env\Scripts\python.exe
 import extractor
 import os
 link_dict = extractor.extract_links_from_body()
