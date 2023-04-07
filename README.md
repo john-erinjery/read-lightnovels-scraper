@@ -3,43 +3,12 @@
 
 [readlightnovels.net](https://readlightnovels.net/) is a free webnovel sharing website. This tool allows you to scrape the aforementioned website for lightnovels and save them in pdf format on your device.
 
+<h2>
+    
+    NOTE : If someone is <i>actually</i> using this project, give this repo a star or contact me on [reddit](https://www.reddit.com/user/tanoshi-ka/).
+    I'll update the docs and make the program more user friendly then. For now I made the program for my own use, if you need it as well, please do the aforementioned.
+    Cheers!
+    
+</h2>
+
 <br/>
-
-> Please understand that this project is still under devolopment,
-> a lot of it's features might seem primitive and uncompleted. <br>
-> Rest assured that I realise this and will work on it in the future, any help is most appreciated!
-
-<br>
-
-+ <span style="font-size: 24px">Usage</span> <br />
-<br>
-
-* To use this tool you first need to head over to the [readlightnovels.net](https://readlightnovels.net) webpage of the lightnovel you wish to scrape.
-
-* As, in the picture shown below, make sure you have the chapter list of the chapters you wish to download.
-
-    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/chp-list.jpg" alt="chapter-list"></img>
-
-* If the chapter list given includes the chapters you wish to scrape, then instpect the page using the shortcut `Ctrl + Shift + i`
-* In the inspect panel, right-click on the body element and select 'copy-element' as shown.
- 
-    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/inspect-panel.jpg" alt="inspect-panel"></img>
-* Save the copied text as 'body.html' in the folder containing the python script.
-    > Note : It is very important that the file be called body.html, else the program will not work
-
-* The folder contaning the python script should somewhat look like this 
-
-    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/folder.jpg" alt="folder"></img>
-
-* Run the python script using the correct python interpreter and enter the chapters as shown below, and it will download the chapters for you.
-
-    <img src="https://raw.githubusercontent.com/john-erinjery/read-lightnovels-extractor/master/assets/cmd.jpg" alt="cmd"></img>
-
-+ <span style="font-size: 24px">Features to be incorporated</span> <br />
-
-     + The first change I plan to make is to make it so that you dont have to copy the html body of the chapter index page. I understand that its a pain to copy and file the html code. Since the chapter list is javascript rendered, I have not yet found a workaround to get the chapter list.
-  
-     + I would also like to make the resulting pdf document look better. It was my first time working with FPDF module so the PDF looks a little on the untidy side. My apologies.
-
-    + I want to add even more features to this program to make it easier to handle and also improve the output quality. I am having my exams currently so I may not be able to work on this as much as I'd like to :')
-  
