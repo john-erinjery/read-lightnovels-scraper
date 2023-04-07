@@ -1,1 +1,0 @@
-# https://readlightnovels.net/the-daily-life-of-the-immortal-king/chapter-1-the-richest-of-the-rich.html
